@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(252, 251, 251);
+    color: rgb(255, 255, 255);
+    background-image: url("kayne.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.texto{
+    width: 100%;
+}
